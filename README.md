@@ -27,6 +27,14 @@ The objective of this project is to develop a machine learning model to predict 
   - Training data was split into training and validation sets.
   - The model's performance was evaluated using metrics like AUC (Area Under the Curve).
 
+### Tech Stack
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+![RStudio](https://img.shields.io/badge/-RStudio-75AADB?logo=rstudio&logoColor=white)
+![randomForest](https://img.shields.io/badge/-randomForest-276DC3?logo=r&logoColor=white)
+![dplyr](https://img.shields.io/badge/-dplyr-276DC3?logo=r&logoColor=white)
+![caret](https://img.shields.io/badge/-caret-276DC3?logo=r&logoColor=white)
+![ggplot2](https://img.shields.io/badge/-ggplot2-276DC3?logo=r&logoColor=white)
+
 ### Findings
 - **Key Drivers:** Factors like pricing, room type, and amenities significantly impact booking rates.
 - **Model Performance:** The final Random Forest model achieved high accuracy on training data but required further tuning to reduce overfitting.
